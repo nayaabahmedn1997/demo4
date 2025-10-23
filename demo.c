@@ -9,3 +9,5 @@ int z1 = 500;
 int z2 = 600;
 int z3 = 500;
 int z4 = 600;
+int z5 = 500;
+int z6 = 600;
