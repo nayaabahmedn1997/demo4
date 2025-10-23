@@ -5,3 +5,5 @@ int d = 50;
 int e = 60;
 int h = 200;
 int z = 300;
+int z1 = 500;
+int z2 = 600;
