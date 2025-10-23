@@ -7,3 +7,5 @@ int h = 200;
 int z = 300;
 int z1 = 500;
 int z2 = 600;
+int z3 = 500;
+int z4 = 600;
