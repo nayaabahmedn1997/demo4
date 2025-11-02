@@ -12,3 +12,4 @@ int z4 = 600;
 int z5 = 500;
 int z6 = 600;
 int z7 = 800
+int z8 = 1000;
